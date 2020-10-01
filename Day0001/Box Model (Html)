@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Let's Test Your Memory!</title>
+    <link rel="stylesheet" href="https : fonts.googleapis.com/css?family=yantramanav:100,300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <h2>Classic Memory Game</h2>
+    <h1>Let's Test Your Memory!</h1>
+    <p>Click on a tile below to reveal a symbol. click on another tile to try and reveal of the same symbols. The game is over when all the cards have been matched</p>
+
+    <div class="actions">
+        <a href="#">Reset Game</a>
+        <a href="#">Invite a Friend</a>
+        <a href="#">Save This Game</a>
+    </div>
+    <div id="gameboard"></div>
+    <div class="card">
+        <img src="img.png">
+    </div>
+    <div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div><div class="card">
+        <img src="img.png">
+    </div>
+</body>
+</html>
