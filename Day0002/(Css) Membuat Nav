@@ -1,0 +1,46 @@
+body {
+    background-image: url(bg.jpg);
+}
+.h1-1 {
+    text-align: center;
+    color: thistle;
+}
+nav {
+    margin:auto;
+    text-align: right;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav ul {
+    background: springgreen;
+    padding: 0 20px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+}
+nav ul li {
+    float: right;
+}
+nav ul li:hover {
+    float: right;
+}
+nav ul li:hover a {
+    background: maroon;
+}
+nav ul li:hover a {
+    color: white;
+}
+nav ul li a {
+    display: block;
+    padding: 25px;
+    color: midnightblue;
+    text-decoration:none ;
+}
+.abc {
+    border: 10px white;
+    display: block;
+    padding: 25px;
+    background-color: white;
+    text-align: center;
+}
